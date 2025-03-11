@@ -17,9 +17,14 @@ Welcome to my GitHub profile! Here's a brief overview of some of my notable proj
 - **Repository**: [Refaelll-basicSpring](https://github.com/Refaellevi20/Refaelll-basicSpring)
 - **Description**: This is a basic Spring Boot project that includes various functionalities such as RESTful services, Swagger integration for API documentation, Docker for containerization, Spring Data JPA for database interactions, and more. The project serves as a good starting point for building robust and scalable Spring Boot applications.
 
-## Languages
+## Languages and Tools
 
-Here is a breakdown of the languages I use in my projects:
+Here is an overview of the languages and tools I frequently use:
+
+- **Languages**: JavaScript, Java, TypeScript, CSS, SQL, HTML
+- **Tools**: Docker, Spring Boot, Node.js, Express, PostgreSQL, Swagger, AWS S3, OkHttp, JWT
+
+## Language Breakdown
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Refaellevi20&layout=compact)
 
