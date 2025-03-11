@@ -1,50 +1,28 @@
 - 👋 Hi, I’m @Refaellevi20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Refaellevi20 👋
 
-<!---
-Refaellevi20/Refaellevi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Welcome to My GitHub Profile
-
-Hey there! I'm Refaellevi20, and this is my GitHub profile. Here you will find a collection of my projects, contributions, and everything related to my coding journey.
-
-## About Me
-
-- **Name**: Refaelle Levi
-- **Interests**: Coding, Open Source, Web Development, AI, and more.
-- **Skills**: JavaScript, Python, HTML, CSS, React, Node.js, and more.
+Welcome to my GitHub profile! Here's a brief overview of some of my notable projects:
 
 ## Projects
 
-### Project 1: Awesome Project
-- **Description**: A brief description of what this project is about.
-- **Technologies Used**: List of technologies used in this project.
-- **Repository Link**: [Awesome Project](https://github.com/Refaellevi20/awesome-project)
+### AirLevi
+- **Repository**: [backend-AirLevi](https://github.com/Refaellevi20/backend-AirLevi)
+- **Description**: AirLevi is a comprehensive airline management system built using JavaScript. The project simulates essential operations of an airline, including managing planes, flights, and passengers. This project includes features such as plane management, passenger management, flight management, and more. Additionally, it has functionality for wishlist and trip management, order management, communication tools, enhanced search and filtering, interactive maps, reviews and ratings, and calendar integration. You can explore the project further [here](https://backend-airlevi-12.onrender.com).
 
-### Project 2: Another Great Project
-- **Description**: A brief description of what this project is about.
-- **Technologies Used**: List of technologies used in this project.
-- **Repository Link**: [Another Great Project](https://github.com/Refaellevi20/another-great-project)
+### Fiverr
+- **Repository**: [backend-whtApp](https://github.com/Refaellevi20/backend-whtApp)
+- **Description**: This project is part of the Fiverr backend application. It includes features such as user management, order processing, service listings, and payment integrations. The project is built to handle a high number of transactions and provide a seamless experience for both buyers and sellers.
 
-## Contributions
+### Refaelll-basicSpring
+- **Repository**: [Refaelll-basicSpring](https://github.com/Refaellevi20/Refaelll-basicSpring)
+- **Description**: This is a basic Spring Boot project that includes various functionalities such as RESTful services, Swagger integration for API documentation, Docker for containerization, Spring Data JPA for database interactions, and more. The project serves as a good starting point for building robust and scalable Spring Boot applications.
 
-I love contributing to open source projects. Here are some repositories I have contributed to:
+## Languages
 
-- [Open Source Project 1](https://github.com/someone/open-source-project-1)
-- [Open Source Project 2](https://github.com/someone/open-source-project-2)
+Here is a breakdown of the languages I use in my projects:
 
-## Contact Me
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Refaellevi20&layout=compact)
 
-Feel free to reach out to me via the following platforms:
+Thank you for visiting my profile!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-
-Thank you for visiting my GitHub profile!
+Feel free to connect with me on [GitHub](https://github.com/Refaellevi20).
